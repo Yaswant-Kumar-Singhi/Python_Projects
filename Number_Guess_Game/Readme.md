@@ -11,3 +11,6 @@
 6.  use a counter variable to count the number of chances taken by user.
 7.  If number of chances exceeds by log(upper - lower + 1, 2) then end the game.
 ```
+> Demo
+
+<img src="https://github.com/Yaswant-Kumar-Singhi/Python_Projects/blob/main/Number_Guess_Game/Demo.PNG">
